@@ -23,19 +23,19 @@
 }
 
 .slide-sakura{
-    background-image: url(../images/sakura.png);
+    background-image: url(./images/sakura.png);
 }
 
 .slide-colza{
-    background-image: url(../images/colza.png);
+    background-image: url(./images/colza.png);
 }
 
 .slide-montanha{
-    background-image: url(../images/montanha.png);
+    background-image: url(./images/montanha.png);
 }
 
 .slide-lago{
-    background-image: url(../images/lago.png);
+    background-image: url(./images/lago.png);
 }
 
 .seta-voltar, .seta-avancar{
